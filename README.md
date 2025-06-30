@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vicente-Hernandez-Segura
+- 👋 Hi, I’m @Vinnie
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning C#
 <!---
